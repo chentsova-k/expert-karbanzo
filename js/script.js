@@ -4,8 +4,8 @@
 // const result = confirm ("are you here?");
 // console.log(result);
 
-// const answer = prompt("Антон шопоголик?", "");
-// console.log(typeof(answer));
+const answer = prompt("карина шопоголик?", "");
+console.log(typeof(answer));
 
 const answers = [];
 
